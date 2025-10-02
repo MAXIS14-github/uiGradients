@@ -1532,5 +1532,9 @@
     {
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
+    },
+    {
+        "name": "Rainbow Fusion",
+        "colors": ["#FF0000", "#FF3F00", "#FF7F00", "#FFBF00", "#FFFF00","#BFFF00", "#7FFF00", "#3FFF00", "#00FF00", "#00FF3F","#00FF7F", "#00FFBF", "#00FFFF", "#00BFBF", "#007FFF","#003FFF", "#0000FF", "#3F00FF", "#7F00FF", "#BF00FF","#FF00FF", "#FF00BF", "#FF007F", "#FF003F", "#FF0000","#FF3F00", "#FF7F00", "#FFBF00", "#FFFF00", "#BFFF00","#7FFF00", "#3FFF00", "#00FF00", "#00FF3F", "#00FF7F","#00FFBF", "#00FFFF", "#00BFBF", "#007FFF", "#003FFF","#0000FF", "#3F00FF", "#7F00FF", "#BF00FF", "#FF00FF","#FF00BF", "#FF007F", "#FF003F", "#FF0000", "#FF3F00","#FF7F00","#FFBF00", "#FFFF00", "#BFFF00", "#7FFF00"]]
     }
 ]
